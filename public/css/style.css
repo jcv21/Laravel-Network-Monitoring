@@ -1,0 +1,11 @@
+.row{
+    padding-bottom: 15px !important;
+}
+
+.right_col{
+    padding: 20px !important;
+}
+
+input[type="date"].form-control{
+    line-height: 20px !important;
+}

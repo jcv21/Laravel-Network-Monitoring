@@ -1,0 +1,1 @@
+*/10 * * * * /usr/bin/env python3 /var/www/html/eyenet/public/sniffer/network.py
