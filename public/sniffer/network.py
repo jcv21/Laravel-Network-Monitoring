@@ -9,7 +9,7 @@ from datetime import datetime
 conn = mysql.connector.connect(
     host = 'localhost',
     user = 'root',
-    password='09161826753',
+    password='',
     database='traffic')
 
 
